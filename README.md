@@ -1,4 +1,4 @@
-﻿#WinHTTP Constants for Scripting
+﻿# WinHTTP Constants for Scripting
 
 **Microsoft Windows HTTP Services ([WinHTTP](https://msdn.microsoft.com/en-us/library/windows/desktop/aa384106.aspx))** provides developers with an HTTP client application programming interface (API) to send requests through the HTTP protocol to other HTTP servers.
 
